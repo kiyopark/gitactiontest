@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='gitactiontest',
-    version='0.0.1',
+    version='{{VERSION_PLACEHOLDER}}',
     description='git action test',
     author='Lian Park',
     author_email='g1000white@gmail.com',
